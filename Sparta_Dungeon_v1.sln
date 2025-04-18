@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparta_Dungeon_v1", "Sparta_Dungeon_v1\Sparta_Dungeon_v1.csproj", "{65340D54-7BDC-4F15-98E4-C13ED53DEC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65340D54-7BDC-4F15-98E4-C13ED53DEC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65340D54-7BDC-4F15-98E4-C13ED53DEC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65340D54-7BDC-4F15-98E4-C13ED53DEC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65340D54-7BDC-4F15-98E4-C13ED53DEC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC51253-FC28-46A9-930B-07082054CC7C}
+	EndGlobalSection
+EndGlobal
